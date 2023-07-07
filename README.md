@@ -52,5 +52,29 @@
       <td>DSN Bamako</td>
       <td></td>
     </tr>
+      <tr>
+      <td>Saturday, July 15</td>
+      <td>Twitter</td>
+      <td>An overview of Data Analytics and AI in Oil and Gas.</td>
+      <td>A webinar to discuss the importance of Data Analytics and AI in Oil and Gas</td>
+      <td>DSN Port Harcourt</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td>Saturday, July 22</td>
+      <td>Microsoft Teams</td>
+      <td>Documenting Data Projects on Github</td>
+      <td>A masterclass on how to document projects on Github</td>
+      <td>DSN Port Harcourt</td>
+      <td></td>
+    </tr>
+       <tr>
+      <td>June - August</td>
+      <td>DSN Slack and Telegram</td>
+      <td>DSN X Microsoft Job Readiness 50days of Online Learning</td>
+      <td>50days of Online Learning on how to use Microsoft tools ( Microsoft Power BI, Power Apps, Machine learning with Microsoft Azure)</td>
+      <td><a href="https://bit.ly/DSN-Microsoft-50days-Learning">Registration Link</a></td>
+      <td></td>
+      </tr>
   </tbody>
 </table>
