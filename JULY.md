@@ -21,12 +21,12 @@
       <td><a href="http://bit.ly/DSNStudents" style="color: green;">Registration Link</a></td>
     </tr>
     <tr>
-      <td>Monday, December 19th</td>
+      <td>Monday, July 3</td>
       <td>Microsoft Teams</td>
-      <td>Building ML Models 19th Dec – 25 Dec 2022</td>
-      <td>An event for tech enthusiasts to learn how to build machine learning models</td>
-      <td>DS UBEN</td>
-      <td><a href="https://bit.ly/uels" style="color: green;">Registration Link</a></td>
+      <td>Data Bootcamp 2023 Second Batch Onboarding Session</td>
+      <td>AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
+      <td>DSN UNILORIN</td>
+      <td><a href="https://bit.ly/databootcamp2023_onboardingsession" style="color: green;">Registration Link</a></td>
     </tr>
   </tbody>
 </table>
