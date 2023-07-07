@@ -13,12 +13,12 @@
   </thead>
   <tbody>
     <tr>
-      <td>Saturday, December 3rd</td>
-      <td>Google Meet</td>
-      <td>Crafting a Winning CV as a Data Analyst</td>
-      <td>An event for tech enthusiasts to learn the basics of crafting a winning CV as a Data Analyst</td>
-      <td>DS Port Hart</td>
-      <td><a href="https://bit.lyh" style="color: green;">Registration Link</a></td>
+      <td>Thursday, June 29</td>
+      <td>Physical</td>
+      <td>5 days free training on Microsoft power bi and machine learning with Python </td>
+      <td>A 5days FREE AI classes in every city	</td>
+      <td>DSN Sokoto</td>
+      <td><a href="http://bit.ly/DSNStudents" style="color: green;">Registration Link</a></td>
     </tr>
     <tr>
       <td>Monday, December 19th</td>
