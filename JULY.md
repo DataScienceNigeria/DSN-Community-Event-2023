@@ -34,7 +34,7 @@
       <td>4-days data bootcamp</td>
       <td>AI AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
       <td>DSN EKSU</td>
-      <td><a">Registration Link</a></td>
+      <td><</td>
     </tr>
   </tbody>
 </table>
