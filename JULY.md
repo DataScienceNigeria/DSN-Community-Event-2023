@@ -28,5 +28,13 @@
       <td>DSN UNILORIN</td>
       <td><a href="https://bit.ly/databootcamp2023_onboardingsession" style="color: green;">Registration Link</a></td>
     </tr>
+      <tr>
+      <td>Tuesday, July 4</td>
+      <td>Physical</td>
+      <td>4-days data bootcamp</td>
+      <td>AI AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
+      <td>DSN EKSU</td>
+      <td><a">Registration Link</a></td>
+    </tr>
   </tbody>
 </table>
