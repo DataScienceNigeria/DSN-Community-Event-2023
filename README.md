@@ -15,8 +15,8 @@
     <tr>
       <td>Thursday, June 29</td>
       <td>Physical</td>
-      <td>5 days free training on Microsoft power bi and machine learning with Python </td>
-      <td>A 5days FREE AI classes in every city	</td>
+      <td>5 days free training on Microsoft Power BI and Machine Learning with Python </td>
+      <td>A 5days FREE AI Classes in Every City	</td>
       <td>DSN Sokoto</td>
       <td><a href="http://bit.ly/DSNStudents">Registration Link</a></td>
     </tr>
@@ -64,7 +64,7 @@
       <td>Saturday, July 22</td>
       <td>Microsoft Teams</td>
       <td>Documenting Data Projects on Github</td>
-      <td>A masterclass on how to document projects on Github</td>
+      <td>A masterclass on how to document projects on GitHub</td>
       <td>DSN Port Harcourt</td>
       <td></td>
     </tr>
