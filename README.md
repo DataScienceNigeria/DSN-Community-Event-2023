@@ -32,7 +32,7 @@
       <td>Tuesday, July 4</td>
       <td>Physical</td>
       <td>4-days data bootcamp</td>
-      <td>AI AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
+      <td>AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
       <td>DSN EKSU</td>
       <td><a href="bit.ly/3PfUZUm">Registration Link</a></td>
     </tr>
