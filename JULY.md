@@ -1,4 +1,4 @@
-<h1 style="background-color: black; color: white; text-align: center; padding: 10px;">DSN Community Events July, 2023</h1>
+<h1 align="center">DSN Community Events July, 2023</h1>
 
 <table>
   <thead style="background-color: black; color: white;">
