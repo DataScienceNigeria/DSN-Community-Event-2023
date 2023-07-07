@@ -1,14 +1,14 @@
 <h1 align="center">DSN Community Events July, 2023</h1>
 
 <table>
-  <thead style="background-color: black; color: white;">
+  <thead>
     <tr>
-      <th style="color: green;">Date</th>
-      <th style="color: green;">Venue</th>
-      <th style="color: green;">Title</th>
-      <th style="color: green;">Description</th>
-      <th style="color: green;">Community</th>
-      <th style="color: green;">Registration Link</th>
+      <th>Date</th>
+      <th>Venue</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Community</th>
+      <th>Registration Link</th>
     </tr>
   </thead>
   <tbody>
@@ -34,7 +34,15 @@
       <td>4-days data bootcamp</td>
       <td>AI AI bootcamp to learn the fundamentals of data analysis and machine learning</td>
       <td>DSN EKSU</td>
-      <td><</td>
+      <td><a href="bit.ly/3PfUZUm" style="color: green;">Registration Link</a></td>
+    </tr>
+    <tr>
+      <td>Saturday, July 8</td>
+      <td>Physical</td>
+      <td>AI for Everyday Life</td>
+      <td>Learn how on to use AI for our everyday life routine</td>
+      <td>DSN Kankia</td>
+      <td><a href="http://bit.ly/DSN_KC8J23" style="color: green;">Registration Link</a></td>
     </tr>
   </tbody>
 </table>
