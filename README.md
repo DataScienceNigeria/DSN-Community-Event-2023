@@ -58,7 +58,7 @@
       <td>An overview of Data Analytics and AI in Oil and Gas.</td>
       <td>A webinar to discuss the importance of Data Analytics and AI in Oil and Gas</td>
       <td>DSN Port Harcourt</td>
-      <td></td>
+      <td><a href="https://twitter.com/i/spaces/1ypKddEBaYoKW">Registration Link</a></td>
     </tr>
       <tr>
       <td>Saturday, July 22</td>
