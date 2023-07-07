@@ -74,7 +74,7 @@
       <td>DSN X Microsoft Job Readiness 50days of Online Learning</td>
       <td>50days of Online Learning on how to use Microsoft tools ( Microsoft Power BI, Power Apps, Machine learning with Microsoft Azure)</td>
       <td>DSN Central Event</td>
-      <td><a href="https://bit.ly/DSN-Microsoft-50days-Learning">Registration Link</a></td>
+      <td><a href="https://bit.ly/DSN-Microsoft-50days-Learning ">Registration Link</a></td>
       </tr>
   </tbody>
 </table>
